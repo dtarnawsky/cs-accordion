@@ -1,0 +1,7 @@
+{
+  "name": "cs-accordian",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
